@@ -1,0 +1,18 @@
+.home-bg {
+    background: -prefix-linear-gradient(top, #0065f1, #0043a0);
+    background: linear-gradient(to bottom, #0065f1, #0043a0);
+}
+
+.home-section {
+    width: min(90%, 1054px);
+    margin: auto;
+    color: #fff;
+}
+
+.left-content {
+    display: flex;
+    flex-direction: column !important;
+    align-items: start;
+    justify-content: center;
+    text-align: left;
+}
