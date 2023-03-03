@@ -12,7 +12,7 @@ function Privacy(props) {
       <p>
         El presente Política de Privacidad establece los términos en que
         Positivo usa y protege la información que es proporcionada por sus
-        usuarios al momento de utilizar su sitio web. Esta compañía está
+        usuarios al momento de utilizar su aplicación móvil. Esta compañía está
         comprometida con la seguridad de los datos de sus usuarios. Cuando le
         pedimos llenar los campos de información personal con la cual usted
         pueda ser identificado, lo hacemos asegurando que sólo se empleará de
@@ -25,23 +25,40 @@ function Privacy(props) {
         <strong>Información que es recogida</strong>
       </p>
       <p>
-        Nuestro sitio web podrá recoger información personal por ejemplo:
-        Nombre,&nbsp; información de contacto como&nbsp; su número de celular,
-        dirección de correo electrónico e información demográfica.
+        Nuestra aplicación móvil podrá recoger información personal por ejemplo:
+        Nombre, información de contacto como su número de celular,
+        dirección de correo electrónico y ubicación en tiempo real.
       </p>
       <p>
         <strong>Uso de la información recogida</strong>
       </p>
       <p>
-        Nuestro sitio web emplea la información con el fin de proporcionar el
+      Nuestra aplicación móvil emplea la información con el fin de proporcionar el
         mejor servicio posible, particularmente para mantener un registro de
-        usuarios, de pedidos en caso que aplique, y mejorar nuestros productos y
-        servicios. &nbsp;Es posible que sean enviados correos electrónicos
-        periódicamente a través de nuestro sitio con ofertas especiales, nuevos
-        productos y otra información publicitaria que consideremos relevante
+        usuarios, de viajes, mejorar la comunicación entre pasajeros y conductores y
+        optimizar nuestros servicios. Es posible que sean enviados correos electrónicos
+        con futuras actualizaciones de nuestros servicios, respuestas a PQRSD (Petición, Queja, Reclamo, Sugerencia, Denuncia)
+        y otra información que consideremos relevante
         para usted o que pueda brindarle algún beneficio, estos correos
         electrónicos serán enviados a la dirección que usted proporcione y
         podrán ser cancelados en cualquier momento.
+      </p>
+      <p>
+        Cuando se obtiene información sobre la ubicación actual de los usuarios, se realiza
+        y se usa de forma diferente para pasajeros y conductores. Cuando un <b><i>pasajero</i></b> permite
+        a nuestra aplicación móvil acceder a su ubicación, la recoleccion de esta información solo
+        se hace cuando la aplicación se ejecuta en primer plano, es decir, mientras mantenga la aplicación
+        activa, permitiendonos usar su ubicación para establecer el punto de partida del viaje.
+        Cuando un <b><i>conductor</i></b> permite a nuestra aplicación móvil acceder a su ubicación, 
+        preferiblemente debe otorgar el permiso para que accedamos a su ubicacón en todo momento, lo
+        que implica que si la aplicación esta inactiva, aún así podamos acceder a esta información.
+        La razón por la que pedimos que nos proporcione esta información de esta manera, se debe a diferentes
+        usos, como por ejemplo, cuando un pasajero pide un servicio y usted como conductor no tienen
+        la aplicación activa en el momento, aún así podamos avisarle sobre un viaje cercano, otro ejemplo se
+        aplica cuando usted como conductor aceptó la petición de viaje del pasajero, entonces nuestra
+        aplicación móvil usa el acceso a su ubicación en segundo plano, que incluye casos en usted no tenga
+        activa nuestra aplicación o este usando otra aplicación, para brindar su ubicación al pasajero
+        y que él pueda conocer en donde está y cuanta distancia le falta por llegar al punto inicial del recorrido.
       </p>
       <p>
         Positivo está altamente comprometido para cumplir con el compromiso de
@@ -50,44 +67,22 @@ function Privacy(props) {
         no autorizado.
       </p>
       <p>
-        <strong>Cookies</strong>
+        <strong>Almacenamiento de Datos</strong>
       </p>
       <p>
-        Una cookie se refiere a un fichero que es enviado con la finalidad de
-        solicitar permiso para almacenarse en su ordenador, al aceptar dicho
-        fichero se crea y la cookie sirve entonces para tener información
-        respecto al tráfico web, y también facilita las futuras visitas a una
-        web recurrente. Otra función que tienen las cookies es que con ellas las
-        web pueden reconocerte individualmente y por tanto brindarte el mejor
-        servicio personalizado de su web.
+        El almacenamiento de datos se realiza en los dispositivos de los usuarios
+        y se usa para facilita los futuros accesos a la aplicación móvil, una vez
+        inicie sesión y se autentique. Los datos que se almacenan son solo los necesarios
+        para que la aplicación permita ingresar, como puede ser un token de acceso, también se
+        almacena el rol del usuario, si es pasajero o conductor, entre otros datos que nos ayudan
+        mejorar la experiencia del usuario en nuestra aplicación móvil. 
       </p>
       <p>
-        Nuestro sitio web emplea las cookies para poder identificar las páginas
-        que son visitadas y su frecuencia. Esta información es empleada
-        únicamente para análisis estadístico y después la información se elimina
-        de forma permanente. Usted puede eliminar las cookies en cualquier
-        momento desde su ordenador. Sin embargo las cookies ayudan a
-        proporcionar un mejor servicio de los sitios web, estás no dan acceso a
-        información de su ordenador ni de usted, a menos de que usted así lo
-        quiera y la proporcione directamente
-        <a href="" target="_blank"></a>. Usted puede aceptar o negar el uso de
-        cookies, sin embargo la mayoría de navegadores aceptan cookies
-        automáticamente pues sirve para tener un mejor servicio web. También
-        usted puede cambiar la configuración de su ordenador para declinar las
-        cookies. Si se declinan es posible que no pueda utilizar algunos de
-        nuestros servicios.
+        Usted puede borrar estos datos cuando desee, pero tenga en cuenta que borrarlos implica que
+        tendrá que volver a iniciar sesión con su móvil.
       </p>
       <p>
         <strong>Control de su información personal</strong>
-      </p>
-      <p>
-        En cualquier momento usted puede restringir la recopilación o el uso de
-        la información personal que es proporcionada a nuestro sitio web.&nbsp;
-        Cada vez que se le solicite rellenar un formulario, como el de alta de
-        usuario, puede marcar o desmarcar la opción de recibir información por
-        correo electrónico. &nbsp;En caso de que haya marcado la opción de
-        recibir nuestro boletín o publicidad usted puede cancelarla en cualquier
-        momento.
       </p>
       <p>
         Esta compañía no venderá, cederá ni distribuirá la información personal
