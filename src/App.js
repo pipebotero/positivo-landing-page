@@ -6,8 +6,8 @@ export function App() {
     return (
         <div className="App">
             <Routes>
-                {/* <Route path="/" element={<HomePage />} /> */}
-                <Route path="/" element={<PrivacyPage />} />
+                <Route path="/" element={<HomePage />} />
+                <Route path="/privacy" element={<PrivacyPage />} />
             </Routes>
         </div>
     );
